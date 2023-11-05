@@ -53,9 +53,9 @@ Data visualizations, including scatter plots and mosaic plots, are used to illus
 In the conclusion section, we summarize the key findings from the market segmentation analysis. This encompasses recommendations for marketing strategies, product enhancements, and customer engagement techniques. The actionable insights derived from this analysis contribute to the project's value.
 
 ## Contributing
+Contributions to this project are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-Your contributions to this project are welcomed and encouraged. If you have suggestions for improvements, discover issues, or wish to introduce new features, please don't hesitate to open an issue or submit a pull request on our GitHub repository. Collaborative efforts can enhance the project significantly.
+## Contact
+For any questions or inquiries, please get in touch with Deepali Josh at [deepalijosh37@gmail.com].
 
-## License
-
-This project is released under the MIT License. This means you are free to use, modify, and distribute the code in accordance with the terms of the license. Make it your own and consider contributing back to the open-source community.
+Thank you for your interest in this Market Segmentation Analysis Project!
