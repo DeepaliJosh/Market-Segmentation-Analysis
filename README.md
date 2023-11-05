@@ -1,10 +1,6 @@
 # Market-Segmentation-Analysis
 
-Certainly, here's the README content in a more structured format:
-
-# Market Segmentation Analysis
-
-## Overview
+## Project Overview
 
 This project is dedicated to conducting a Market Segmentation Analysis within the fast-food industry. The goal is to uncover valuable insights about customers' preferences, demographics, and behaviors, facilitating a deeper understanding of their characteristics. By segmenting customers into distinct groups, businesses can refine marketing strategies, enhance customer satisfaction, and drive success in the competitive market.
 
